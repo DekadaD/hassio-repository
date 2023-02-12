@@ -4,7 +4,7 @@
   "slug": "paradox_alarm_interface_dev",
   "description": "Warning. Breaking changes. Clear MQTT before upgrading from deprecated version. Supports SP/MG/EVO, Serial and IP150 connections.",
   "uart": true,
-  "url": "https://github.com/ParadoxAlarmInterface/pai/tree/dev",
+  "url": "https://github.com/DekadaD/pai",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "application",
   "boot": "auto",
