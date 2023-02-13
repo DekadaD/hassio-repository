@@ -1,7 +1,7 @@
 {
   "name": "Paradox Alarm Interface (deprecated) VR",
-  "version": "2.7.1",
-  "slug": "paradox_alarm_interface",
+  "version": "2.7.1.777",
+  "slug": "paradox_alarm_interface_vr",
   "description": "Supports SP/MG/EVO, Serial and IP150 connections.",
   "uart": true,
   "url": "https://github.com/DekadaD/pai",
