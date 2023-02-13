@@ -1,6 +1,6 @@
 {
   "name": "Paradox Alarm Interface (deprecated) VR",
-  "version": "2.7.1.777",
+  "version": "2.7.1",
   "slug": "paradox_alarm_interface_vr",
   "description": "Supports SP/MG/EVO, Serial and IP150 connections.",
   "uart": true,
