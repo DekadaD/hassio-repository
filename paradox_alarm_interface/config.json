@@ -203,5 +203,5 @@
     "DUMMY_EVENT_FILTERS": ["str?"]
   },
   "services": ["mqtt:want"],
-  "image": "paradoxalarminterface/pai"
+  "image": "paradoxalarminterface/pai2"
 }
